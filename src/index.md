@@ -2,3 +2,4 @@ Hola mundo! soy un chanchito feliz
 cambio de codigo
 cambio alfa y beta- 02-05-2024
 esta noche esta muy fria
+string, integer, boolean, float
